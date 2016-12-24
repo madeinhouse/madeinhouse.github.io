@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Madeinhouse",
-    "currentPage": "index.html",
+    "currentPage": "realizarpedido.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3311,7 +3311,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/tallas-2000x1276-3122.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tallas-2000x1276-3124.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -3325,7 +3325,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/sudaderas-2000x1276-5823.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sudaderas-2000x1276-5825.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -4093,7 +4093,7 @@
               "family": "et-line"
             }
           },
-          "text4": "<p><a href=\"mailto:playerasmadeinhouse@hotmail.com\" target=\"_blank\">playerasmadeinhouse@hotmail.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "text4": "contacto@madeinhouse.com.mx",
           "title1": "Categorías",
           "text5": "<li><a href=\"parael.html\">PARA ÉL</a></li><li><a href=\"paraella.html\">PARA ELLA</a></li><li><a href=\"paracompartir.html\">PARA COMPARTIR</a></li><li><a href=\"parabebe.html\">PARA BEBÉS</a></li><li><a href=\"tejido.html\">TEJIDO</a></li><br>",
           "text6": "<strong>Contáctanos</strong><br>Llena el formulario para que nos pongamos en contacto a la brevedad y podamos atender tu petición o solicitud de pedido.<br><br><br><strong>Recoge &nbsp;tus pedidos en</strong><br>Av. Orión Sur #717 Plaza F1 Local 8<br>Reserva Territorial Atlixcáyotl,Puebla.<br>C.P. 72825<br><br><font color=\"#7e9b9f\"><b>Horario de atención</b></font><font color=\"#7e9b9f\"><b><br></b></font><br><b>Lunes a Viernes:<br></b>10:00 am - 2:30 pm&nbsp;<br>4:00 pm - 7:00 pm<br><br><b>Sábado</b><br>10:00 am - 2:00 pm<br><br><br>",
