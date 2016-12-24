@@ -3311,7 +3311,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/tallas-2000x1276-3124.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tallas-2000x1276-3128.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -3325,7 +3325,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/sudaderas-2000x1276-5825.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sudaderas-2000x1276-5829.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
