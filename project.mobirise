@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Madeinhouse",
-    "currentPage": "realizarpedido.html",
+    "currentPage": "paracompartir.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,9 @@
     },
     "versionFirst": "3.10.3",
     "uniqCompNum": 74,
-    "versionPublish": "3.10.3"
+    "versionPublish": "3.10.3",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -181,6 +183,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "footer1-1x",
           "_params": {
             "paddingTop": 2,
@@ -194,12 +201,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Todos los derechos reservados. Madeinhouse 2017",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "Todos los derechos reservados. Madeinhouse 2017"
         },
         {
           "_inherit": "msg-box8",
@@ -1776,7 +1778,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mr-mrs-2000x1500-21-800x600-57.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mr-mrs-2000x1500-21.jpg",
-                "caption": "Código: <b>2028</b> Precio: <b>$250</b> el par",
+                "caption": "Código: <b>2028</b> Precio: <b>$450</b> el par",
                 "active": false
               },
               {
@@ -1877,6 +1879,166 @@
                 "thumb": "@PROJECT_PATH@/assets/images/yo-soy-batman-2000x1500-36-800x600-4.jpg",
                 "image": "@PROJECT_PATH@/assets/images/yo-soy-batman-2000x1500-36.jpg",
                 "caption": "Código: <b>2038</b> Precio: <b>$350</b> el par",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/king-y-queen-plata-2000x1500-22-800x600-19.jpg",
+                "image": "@PROJECT_PATH@/assets/images/king-y-queen-plata-2000x1500-22.jpg",
+                "caption": "Código: <b>2039</b> Precio: <b>$450</b> el par",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/siluetas-2000x1500-98-800x600-45.jpg",
+                "image": "@PROJECT_PATH@/assets/images/siluetas-2000x1500-98.jpg",
+                "caption": "Código: <b>2040</b> Precio: <b>$250</b> el par",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/yin-yang-2000x1500-76-800x600-30.jpg",
+                "image": "@PROJECT_PATH@/assets/images/yin-yang-2000x1500-76.jpg",
+                "caption": "Código: <b>2041</b>&nbsp;Precio: <b>$450</b> el par",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/loveu-iknow-2000x1500-12-800x600-46.jpg",
+                "image": "@PROJECT_PATH@/assets/images/loveu-iknow-2000x1500-12.jpg",
+                "caption": "Código: <b>2042</b> Precio: <b>$450</b> el par",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/game-over-2000x1500-6-800x600-98.jpg",
+                "image": "@PROJECT_PATH@/assets/images/game-over-2000x1500-6.jpg",
+                "caption": "Código: <b>2043</b> Precio: <b>$450</b> el par",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/beast-beauty-2000x1500-26-800x600-86.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beast-beauty-2000x1500-26.jpg",
+                "caption": "Código: <b>2044</b> Precio: <b>$450</b> el par",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/piratas-2000x1500-76-800x600-71.jpg",
+                "image": "@PROJECT_PATH@/assets/images/piratas-2000x1500-76.jpg",
+                "caption": "Código: <b>2045</b> Precio: <b>$450</b> el par",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jack-y-novia-2000x1500-66-800x600-90.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jack-y-novia-2000x1500-66.jpg",
+                "caption": "Código: <b>2046</b> Precio: <b>$250</b> el par",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mr-y-mrs-wars-2000x1500-47-800x600-39.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mr-y-mrs-wars-2000x1500-47.jpg",
+                "caption": "Código: <b>2047</b> Precio: <b>$450</b> el par",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mario-y-princesa-2000x1500-58-800x600-82.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mario-y-princesa-2000x1500-58.jpg",
+                "caption": "Código: <b>2048</b> Precio: <b>$450</b> el par",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/simpsons-2000x1500-58-800x600-91.jpg",
+                "image": "@PROJECT_PATH@/assets/images/simpsons-2000x1500-58.jpg",
+                "caption": "Código: <b>2049</b> Precio: <b>$250</b> el par",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/guddy-y-jessy-2000x1500-58-800x600-47.jpg",
+                "image": "@PROJECT_PATH@/assets/images/guddy-y-jessy-2000x1500-58.jpg",
+                "caption": "Código: <b>2050</b> Precio: <b>$250</b> el par",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/montaje-flash-2000x1500-99-800x600-78.jpg",
+                "image": "@PROJECT_PATH@/assets/images/montaje-flash-2000x1500-99.jpg",
+                "caption": "Código: <b>2051</b> Precio: <b>$450</b> el par",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mr-mrs-piggy-2000x1500-32-800x600-64.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mr-mrs-piggy-2000x1500-32.jpg",
+                "caption": "Código: <b>2052</b> Precio: <b>$250</b> el par",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/supermancitos-2000x1500-44-800x600-53.jpg",
+                "image": "@PROJECT_PATH@/assets/images/supermancitos-2000x1500-44.jpg",
+                "caption": "Código: <b>2053</b> Precio: <b>$450</b> el par",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wall-e-pareja-2000x1500-29-800x600-85.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wall-e-pareja-2000x1500-29.jpg",
+                "caption": "Código: <b>2054</b> Precio: <b>$450</b> el par",
                 "active": true
               }
             ],
@@ -3311,7 +3473,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/tallas-2000x1276-3128.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tallas-2000x1276-310.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -3325,7 +3487,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/sudaderas-2000x1276-5829.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sudaderas-2000x1276-581.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
