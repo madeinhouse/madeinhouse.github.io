@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Madeinhouse",
-    "currentPage": "index.html",
+    "currentPage": "familiayamigos.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -274,7 +274,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -493,7 +493,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#42e5da",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -592,7 +592,7 @@
               "size": 0
             }
           },
-          "title": "TRABAJAMOS CON 2<br>OPCIONES DE ENVÍO",
+          "title": "OFRECEMOS 2<br>OPCIONES DE ENVÍO",
           "text": "Por DHL Express recibe tu pedido de forma muy rápida en 1 o 2 días hábiiles después de realizado tu depósito y por Correos de México te llegará en una semana aproximadamente pero a un costo muy bajo.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -695,7 +695,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -1004,7 +1004,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/tallas-2000x1276-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/playeras-2000x1255.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1018,7 +1018,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/sudaderas-2000x1276-58.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sudaderas-2000x1255.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1163,7 +1163,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -2214,7 +2214,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/tallas-2000x1276-3112.jpg",
+                "image": "@PROJECT_PATH@/assets/images/playeras-2000x1255.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2228,7 +2228,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/sudaderas-2000x1276-5813.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sudaderas-2000x1255.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2309,7 +2309,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -3106,7 +3106,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/tallas-2000x1276-3112.jpg",
+                "image": "@PROJECT_PATH@/assets/images/playeras-2000x1255.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -3120,7 +3120,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/sudaderas-2000x1276-5813.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sudaderas-2000x1255.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -3201,7 +3201,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -3939,7 +3939,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -4348,7 +4348,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -4449,7 +4449,7 @@
               "color": "#f3c649"
             },
             "B": {
-              "color": "#de9aff"
+              "color": "#000000"
             },
             ".btn": {
               "font-family": "'Raleway', sans-serif",
@@ -4460,10 +4460,10 @@
               "color": "#000000"
             },
             "H4": {
-              "color": "#42e5da"
+              "color": "#000000"
             },
             "STRONG": {
-              "color": "#de9aff"
+              "color": "#000000"
             },
             "LI": {
               "color": "#000000"
@@ -4483,7 +4483,7 @@
             "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/wood-texture-scratch-vintage-cool-2000x1500.jpg",
-            "bgColor": "#42e5da",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4596,6 +4596,11 @@
             "Theme"
           ],
           "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "social-buttons1-m",
           "_params": {
             "paddingTop": 3,
@@ -4614,12 +4619,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "COMPARTE NUESTRA PÁGINA",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "COMPARTE NUESTRA PÁGINA"
         }
       ]
     },
@@ -4800,6 +4800,14 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#42e5da"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "features3-42",
           "_params": {
             "paddingTop": "2",
@@ -4910,7 +4918,13 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
           "_styles": {
             "H4": {
               "color": "#42e5da"
@@ -4918,13 +4932,7 @@
             "P": {
               "color": "#ffffff"
             }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
+          },
           "_anchor": "features3-43",
           "_params": {
             "paddingTop": "0",
@@ -5035,7 +5043,13 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
           "_styles": {
             "H4": {
               "color": "#42e5da"
@@ -5043,13 +5057,7 @@
             "P": {
               "color": "#ffffff"
             }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
+          },
           "_anchor": "features3-44",
           "_params": {
             "paddingTop": "0",
@@ -5160,15 +5168,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H4": {
-              "color": "#42e5da"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         }
       ]
     }
