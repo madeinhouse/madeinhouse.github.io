@@ -4757,7 +4757,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/home-trabajado-2000x1276.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/home_trabajado-2000x1276.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4849,7 +4849,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/papelera-corporativa-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/papeler%C3%8Da-corporativa-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4865,7 +4865,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pgina-web-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/p%C3%81gina-web-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4974,7 +4974,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/catlogo-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cat%C3%81logo-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4990,7 +4990,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/folletera-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/folleter%C3%8Da-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5131,7 +5131,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ilustracin-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ilustraci%C3%93n-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
