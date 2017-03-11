@@ -1213,3 +1213,86 @@ h6,
 #features3-44 P {
   color: #ffffff;
 }
+
+#ext_menu-46 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-46 .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-46 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-46 .close-icon::before,
+#ext_menu-46 .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-46 .link,
+#ext_menu-46 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#ext_menu-46 .link {
+  font-size: 0.75rem;
+}
+#ext_menu-46 .dropdown-item,
+#ext_menu-46 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-46 .link:hover,
+#ext_menu-46 .dropdown-item:hover,
+#ext_menu-46 .link:focus,
+#ext_menu-46 .dropdown-item:focus {
+  color: #000000;
+}
+#ext_menu-46 .link[aria-expanded="true"],
+#ext_menu-46 .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-46 .nav-dropdown-sm .link:focus,
+#ext_menu-46 .nav-dropdown-sm .link:hover,
+#ext_menu-46 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-46 .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#ext_menu-46 .navbar,
+#ext_menu-46 .nav-dropdown-sm,
+#ext_menu-46 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-46 .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-46 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-46 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-46 .bg-color.transparent.opened .link:hover,
+#ext_menu-46 .bg-color.transparent.opened .link:focus {
+  color: #000000;
+}
+#ext_menu-46 .link[aria-expanded="true"],
+#ext_menu-46 .dropdown-item[aria-expanded="true"] {
+  color: #000000!important;
+}
+#header2-47 .mbr-section-title {
+  text-align: center;
+  color: #f7da64;
+}
+#header3-4a .mbr-section-title,
+#header3-4a .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4a H3 {
+  color: #42e5da;
+}
+#header1-49 .mbr-section-title {
+  color: #f7da64;
+}
+#form1-4b .form-control-label {
+  color: #f7da64;
+}
+#form1-4b .mbr-section-title {
+  color: #f7da64;
+}
