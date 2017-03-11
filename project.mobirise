@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Madeinhouse",
-    "currentPage": "ventasporcatalogo.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -182,7 +182,7 @@
           },
           "title": "¿TE GUSTARÍA <br>VENDER NUESTROS PRODUCTOS?&nbsp;",
           "text": "Contamos con un sistema de venta por catálogo muy práctico y con excelentes beneficios para que generes un ingreso extra.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SÍ, ME INTERESA</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"ventasporcatalogo.html\" data-toolbar=\"-mbrBtnMove\">SÍ, ME INTERESA</a>"
         },
         {
           "_tags": [
