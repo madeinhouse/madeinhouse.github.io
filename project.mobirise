@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 156,
+    "uniqCompNum": 181,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -106,7 +106,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": false,
             "collapsed": false,
@@ -115,7 +115,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logotipo-mih-clothing-321x128-96.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logotipo-mih-146x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -135,12 +135,616 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "header1",
+          "_anchor": "header1-4g",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fondo-6-2000x1276.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<br><br>Personaliza<br>tus prendas<br>",
+          "text": "<span style=\"font-style: normal;\">Nosotros materializamos</span><br><span style=\"font-style: normal;\">tus ideas.</span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"personaliza.html\" data-toolbar=\"-mbrBtnMove\">Me gustaría saber más</a> ",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "48px"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "right"
+            },
+            ".mbr-section-title": {
+              "text-align": "right",
+              "color": "#eecfb2",
+              "font-size": "48px"
+            },
+            ".mbr-section-lead SPAN": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "header1-4d",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/home-madeinhouse-2000x1276.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "\"Un concepto creado<br>para compartir con <br>los que más quieres\"<br><br>",
+          "text": "<span style=\"font-style: normal;\">Madeinhouse Clothing es un concepto de </span><br><span style=\"font-style: normal;\">diseños divertidos </span><span style=\"font-style: normal;\">plasmados en prendas </span><br><span style=\"font-style: normal;\">y otros artículos, </span><span style=\"font-style: normal;\">pensado para compartir </span><br><span style=\"font-style: normal;\">esos momentos especiales </span><span style=\"font-style: normal;\">con tu pareja,</span><br><span style=\"font-style: normal;\">amigos </span><span style=\"font-style: normal;\">y por supuesto con toda tu familia.</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-4l",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "Comparte nuestra página"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "24px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-4o",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/woodtexture-2000x1276-54.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "\"Nuestro Trabajo&nbsp;es nuestra carta de presentación\"",
+          "text": "<p>Gracias a la confianza que depositan todos y cada uno de nuestros clientes en la forma en la que trabajamos y gracias a la calidad de los productos que les entregamos, nos hemos ganado una excelente reputación y hemos crecido en base a la recomendación de persona a persona que nos ha mantenido en el mercado desde hace más de 5 años consecutivos.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/5-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/9-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/8-2000x1500.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-4n",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/10-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/11-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/12-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/13-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/14-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/15-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/16-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/17-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/17-2000x1500.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-4p",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/18-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/19-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/20-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/21-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/21-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/22-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/22-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/23-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/24-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/25-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/25-2000x1500.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-4q",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/26-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/26-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/27-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/27-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/28-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/28-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/29-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/30-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/30-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/31-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/31-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/6-2000x1500.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/32-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/32-2000x1500.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-4r",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "48px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#eccfb1",
+              "font-size": "60px"
+            },
+            ".mbr-section-lead": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "header1-2",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/home-trabajado-2000x1276-28.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/aqvIhabZlNA?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "contentAlign": "right",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Compra de forma fácil y práctica<span style=\"font-weight: normal;\"><br></span>",
+          "text": "<span style=\"font-style: normal;\">La mecánica de compra es muy simple y puedes hacer la a través de Whatsapp, por medio del formulario de contacto de esta página, por correo electrónico o através de una llamada telefónica, en donde personalmente atenderemos todas tus dudas y peticiones para concretar tu pedido.</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"parejas.html\" data-toolbar=\"-mbrBtnMove\">¿ Cómo adquirir sus productos?</a>     "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-45",
           "_params": {
             "imageSize": "49",
             "paddingTop": "3",
-            "paddingBottom": "1",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -180,91 +784,150 @@
               "size": 0
             }
           },
-          "title": "¿TE GUSTARÍA <br>VENDER NUESTROS PRODUCTOS?&nbsp;",
+          "title": "¿Te gustaría vender nuestros productos?&nbsp;",
           "text": "Contamos con un sistema de venta por catálogo muy práctico y con excelentes beneficios para que generes un ingreso extra.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"ventasporcatalogo.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SÍ, ME INTERESA</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"ventasporcatalogo.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SÍ, ME INTERESA</a>",
+          "_styles": {
+            "P": {
+              "font-size": "24px"
+            }
+          }
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
+          "_name": "contacts3",
+          "_anchor": "contacts3-4s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/icono-facebook-mih-c-265x265.jpg",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Te invitamos a contactarnos por cualquiera de nuestros medios para poder darte una cotización acorde a tus necesidades.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+52 (222) 5701275",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "identica",
+              "family": "socicon",
+              "active": true,
+              "size": 0
+            }
+          },
+          "text3": "WHATSAPP: <br>2226572262<br>2226953428<br>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "contacto@madeinhouse.com.mx",
+          "title1": "Categorías",
+          "text5": "<li><a class=\"text-white\" href=\"parejas.html\">Parejas</a></li><li><a class=\"text-white\" href=\"familiayamigos.html\">Familia y Amigos</a></li><li><a class=\"text-white\" href=\"accesoriospararegalar.html\">Accesorios para regalar</a></li><li><a class=\"text-white\" href=\"tejido.html\">Tejido</a></li><li><a href=\"comocomprar.html\" class=\"text-white\">¿Cómo comprar?</a></li><li><a href=\"realizarpedido.html\" class=\"text-white\">Realizar pedido</a></li><li><a href=\"disenoypublicidad.html\" class=\"text-white\">Diseño y Publicidad</a></li><li><a href=\"ventasporcatalogo.html\" class=\"text-white\">Ventas por catálogo</a></li>",
+          "text6": "<strong>Llena el formulario</strong><br>Escríbenos atrvés del formulario para ponernos en contacto contigo a la brevedad y así poder cerrar tu pedido.<br><br><br><strong>Entregamos los pedidos personalmente en los siguientes puntos únicamente:</strong>-Walmart Cd. Judicial<br>-Complejo Cultural BUAP<br>-Plaza Dorada",
+          "form": {
+            "title": "MESSAGE",
+            "action": "playerasmadeinhouse@hotmail.com",
+            "alerts": {
+              "success": "En breve nos contactaremos para darle seguimiento a tu petición!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Teléfono*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje*"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contáctanos</a>",
           "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "color": "#eccfb1",
-              "font-size": "60px"
-            },
-            ".mbr-section-lead": {
+            ".btn": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          },
-          "_anchor": "header1-2",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/home-trabajado-2000x1276-28.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/aqvIhabZlNA?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "BIENVENIDOS A NUESTRA TIENDA VIRTUAL<span style=\"font-weight: normal;\"><br></span>",
-          "text": "<span style=\"font-style: normal;\">Madeinhouse es un concepto creado por una pareja de emprendedores con la visión de vender prendas para toda la familia con diseños divertidos tanto propios como de tendencias. De igual forma personalizamos según las necesidades de nuestros clientes imprimiendo prendas únicas completamente a su gusto.</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"parejas.html\" data-toolbar=\"-mbrBtnMove\">DISEÑOS PARA PAREJAS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"familiayamigos.html\" data-toolbar=\"-mbrBtnMove\">DISEÑOS PARA FAMILIA Y AMIGOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"accesoriospararegalar.html\" data-toolbar=\"-mbrBtnMove\">ACCESORIOS PARA REGALAR</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tejido.html\" data-toolbar=\"-mbrBtnMove\">TEJIDO</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"disenoypublicidad.html\" data-toolbar=\"-mbrBtnMove\">DISEÑO Y PUBLICIDAD</a> "
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
-          "_inherit": "msg-box8",
+          "_inherit": "social-buttons2",
           "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-1z",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-4j",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "parallax": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
             "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
+            "overlayColor": "#222"
           },
-          "title": "¿Quieres una playera o sudadera con tu propio diseño,&nbsp;una imágen que viste en internet o tu foto favorita?<br><br>",
-          "text": "<p>Si tienes un evento en puerta o deseas uniformar al personal de tu negocio o empresa, perteneces a un club o simplemente quieres crear tu propio estilo para vestir, nosotros podemos hacerlo realidad con la mejor calidad de impresión y auxiliandote con el diseño.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"personaliza.html\" data-toolbar=\"-mbrBtnMove\">QUIERO PERSONALIZAR MIS PRENDAS</a>"
+          "text": "Síguenos",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/playerasmih\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/ernestolodoza0410/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/madeinhouseclothing/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://es.pinterest.com/madeinhousemx/?eq=madeinhouse&amp;etslf=5354\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>     "
         }
       ]
     },
@@ -374,35 +1037,36 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#f1e4b2"
+              "font-size": "72px",
+              "color": "#42e5da"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-t",
+          "_anchor": "msg-box8-4w",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "4",
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/banner-comprar-1-2000x338.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/woodtexture-2000x1276-540.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0.7",
+            "overlay": true,
+            "overlayOpacity": "0.1",
             "overlayColor": "#222",
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButton": false
           },
-          "title": "¿CÓMO COMPRAR?",
-          "text": "",
+          "title": "¿Cómo comprar?",
+          "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -458,7 +1122,7 @@
           },
           "title1": "Paso 1 - ELIGES TU MODELO",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Una vez que elijas el modelo de nuestro catálogo que deseas comprar, llena el formulario en la pestaña de <b>\"REALIZAR PEDIDO\"</b> y envía el código del modelo, junto con sus tallas &nbsp;y tus datos de contacto.",
+          "caption1": "Una vez que elijas el modelo que deseas comprar de nuestro catálogo, llena el formulario en la pestaña de <b>\"REALIZAR PEDIDO\"</b> y envía el código del modelo, junto con sus tallas &nbsp;y tus datos de contacto.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -474,7 +1138,7 @@
           },
           "title2": "Paso 2 - TE CONTACTAMOS",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Al recibir tu mensaje del formulario, nos pondremos en contacto a la brevedad para enviarte el número de cuenta al cual podrás depositar el anticipo.",
+          "caption2": "Al recibir tu mensaje del formulario, nos pondremos en contacto a la brevedad para enviarte el número de cuenta al cual podrás depositar el anticipo de tu pedido.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -490,7 +1154,7 @@
           },
           "title3": "Paso 3 - REALIZAS TU DEPÓSITO",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Ya que has realizado tu depósito, nos envías una foto del ticket y nos coordinamos en el día y hora que puedes pasar a recoger tu pedido a nuestra tienda. Si vives fuera de la Ciudad de Puebla<br>Depositarás el total de tu pedido y de la paquetería previamente acordado.",
+          "caption3": "Ya que has realizado tu depósito, nos envías una foto del ticket y nos coordinamos en el día y hora para entregárte personalemente en uno de los puntos acordados. Si vives fuera de la Ciudad de Puebla, depositarás el total de tu pedido y de la paquetería previamente acordado.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -582,7 +1246,7 @@
               "size": 0
             }
           },
-          "title": "ALGUNOS CLIENTES<br>OPINAN SOBRE<br>NOSOTROS",
+          "title": "Algunos clientes opinan muy contentos",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -645,7 +1309,7 @@
               "size": 0
             }
           },
-          "title": "OFRECEMOS 2<br>OPCIONES DE ENVÍO",
+          "title": "Ofrecemos 2 opciones de envío a todo el país",
           "text": "Por DHL Express recibe tu pedido de forma muy rápida en 1 o 2 días hábiiles después de realizado tu depósito y por Correos de México te llegará en una semana aproximadamente pero a un costo muy bajo.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -684,7 +1348,7 @@
             "showText": false
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"realizarpedido.html\" data-toolbar=\"-mbrBtnMove\">QUIERO REALIZAR MI PEDIDO</a>",
-          "title": "Ahora que ya sabes como comprar, solo contáctanos",
+          "title": "Ahora que ya sabes cómo comprar, solo contáctanos!",
           "text": ""
         }
       ]
@@ -795,35 +1459,36 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#f1e4b2"
+              "font-size": "72px",
+              "color": "#42e5da"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-y",
+          "_anchor": "msg-box8-4x",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/banner-personaliza-2000x338.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/woodtexture-2000x1276-540.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0.7",
+            "overlay": true,
+            "overlayOpacity": "0.1",
             "overlayColor": "#222",
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButton": false
           },
-          "title": "PERSONALIZA",
-          "text": "<p>Para personalizar tus prendas requerimos que nos envíes tus imágenes por correo electrónico, vía whatsapp o por facebook incluyendo la cantidad, el tipo y el color de prendas que requieres para que te enviemos a la brevedad la cotización y el tiempo de entrega.</p>",
+          "title": "Personaliza",
+          "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -833,10 +1498,12 @@
             },
             "SPAN": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "24px",
+              "color": "#ffffff"
             },
             "H3": {
-              "color": "#42e5da"
+              "color": "#eecfb2"
             }
           },
           "_tags": [
@@ -846,12 +1513,12 @@
           "_anchor": "header3-11",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingBottom": "4",
             "bgColor": "#000000",
             "showMeta": true
           },
-          "title": "Estos son los tipos de prendas <br>que ofrecemos&nbsp;para personalizar",
-          "meta": "<span style=\"font-style: normal;\">Elije el modelo que te guste, el color y la talla.</span>"
+          "title": "Estos son los tipos de prendas <br>que ofrecemos&nbsp;para personalizar<br><br>",
+          "meta": "<span style=\"font-style: normal;\">Elije el tipo de prenda, el color y la talla en que te gustaría ver tu diseño impreso y </span><br><span style=\"font-style: normal;\">contáctanos para darte una cotización de acuerdo al estilo, la cantidad y tu diseño.</span>"
         },
         {
           "_inherit": "gallery1",
@@ -993,7 +1660,7 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "color": "#42e5da"
+              "color": "#eecfb2"
             }
           },
           "_tags": [
@@ -1022,7 +1689,7 @@
           },
           "title": "Todo trabajo requiere un 50% de anticipo si vives en la ciudad de Puebla y su depósito total con envío si vives en otra ciudad del país.",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"realizarpedido.html\" data-toolbar=\"-mbrBtnMove\">QUIERO REALIZAR MI PEDIDO</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"realizarpedido.html\" data-toolbar=\"-mbrBtnMove\">Quiero realizar mi pedido</a>"
         },
         {
           "_styles": {
@@ -1124,7 +1791,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "ESCRÍBENOS TODOS LOS DETALLES DE TU PEDIDO PARA QUE TE ENVIEMOS LA COTIZACIÓN A LA BREVEDAD",
+          "title": "Escríbenos todos los detalles y características de cómo requieres tu pedido, para que te enviemos la cotización a la brevedad posible.<br><br>",
           "subtitle": "<span style=\"font-style: normal;\">Deja tu nombre, email y teléfono en el formulario para que podamos contactarnos.</span>",
           "form": {
             "action": "playerasmadeinhouse@hotmail.com",
@@ -1263,24 +1930,21 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#f1e4b2",
-              "text-align": "center",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "84px"
+              "font-size": "72px",
+              "color": "#42e5da"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-q",
+          "_anchor": "msg-box8-4i",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/banner-parejas-3-2000x338.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/woodtexture-2000x1276-54.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1288,20 +1952,20 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0",
+            "overlayOpacity": "0.1",
             "overlayColor": "#222",
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButton": false
           },
-          "title": "PAREJAS",
-          "text": "",
+          "title": "Parejas",
+          "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#42e5da"
+              "color": "#eecfb2"
             },
             ".mbr-section-subtitle": {
               "color": "#a0a0a0"
@@ -1313,7 +1977,7 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-r",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "4",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
@@ -1863,7 +2527,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/pa-40-2000x1365-800x546.jpg",
                 "image": "@PROJECT_PATH@/assets/images/pa-40-2000x1365.jpg",
                 "caption": "Código: PA-041 - Precio: $250 el par",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -1933,7 +2597,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/pa-47-2000x1365-800x546.jpg",
                 "image": "@PROJECT_PATH@/assets/images/pa-47-2000x1365.jpg",
                 "caption": "Código: PA-048 - Precio: $250 el par",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 0,
@@ -2409,24 +3073,21 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#f1e4b2",
-              "text-align": "center",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "84px"
+              "font-size": "72px",
+              "color": "#42e5da"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-2o",
+          "_anchor": "msg-box8-4t",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/banner-familia-2000x338.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/woodtexture-2000x1276-540.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2434,20 +3095,20 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0",
+            "overlayOpacity": "0.1",
             "overlayColor": "#222",
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButton": false
           },
-          "title": "PAREJAS",
-          "text": "",
+          "title": "Familia y Amigos",
+          "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#42e5da"
+              "color": "#eecfb2"
             },
             ".mbr-section-subtitle": {
               "color": "#a0a0a0"
@@ -3301,24 +3962,21 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#f1e4b2",
-              "text-align": "center",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "84px"
+              "font-size": "72px",
+              "color": "#42e5da"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-32",
+          "_anchor": "msg-box8-4u",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/banner-tejido-2000x338.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/woodtexture-2000x1276-540.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3326,14 +3984,14 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0",
+            "overlayOpacity": "0.1",
             "overlayColor": "#222",
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButton": false
           },
-          "title": "PAREJAS",
-          "text": "",
+          "title": "Tejido",
+          "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -4039,24 +4697,21 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#f1e4b2",
-              "text-align": "center",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "84px"
+              "font-size": "72px",
+              "color": "#42e5da"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-3g",
+          "_anchor": "msg-box8-4v",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/banner-accesorios-2000x338.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/woodtexture-2000x1276-540.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4064,14 +4719,14 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0",
+            "overlayOpacity": "0.1",
             "overlayColor": "#222",
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButton": false
           },
-          "title": "PAREJAS",
-          "text": "",
+          "title": "Accesorios <br>para regalar",
+          "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -4448,35 +5103,36 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#f1e4b2"
+              "font-size": "72px",
+              "color": "#42e5da"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-j",
+          "_anchor": "msg-box8-4y",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "4",
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/banner-pedido-2000x338.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/woodtexture-2000x1276-540.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0.7",
+            "overlay": true,
+            "overlayOpacity": "0.1",
             "overlayColor": "#222",
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButton": false
           },
-          "title": "REALIZAR PEDIDO",
-          "text": "",
+          "title": "Realizar Pedido",
+          "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -4532,7 +5188,7 @@
           "_anchor": "contacts5-k",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/wood-texture-scratch-vintage-cool-2000x1500.jpg",
@@ -4544,7 +5200,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logotipo-mih-clothing-265x105-11.jpg",
+              "src": "@PROJECT_PATH@/assets/images/icono-facebook-mih-c-265x265.jpg",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -4576,14 +5232,14 @@
             "iconFont": {
               "class": "mbr-iconfont-company-contacts5",
               "linkInNewWindow": false,
-              "name": "chat",
-              "family": "et-line",
+              "name": "identica",
+              "family": "socicon",
               "active": true,
               "size": 0,
               "color": "#9365b8"
             }
           },
-          "text3": "<b>WHATSAPP</b><br><b>2226572262<br>2224485458</b>",
+          "text3": "<b>WHATSAPP</b><br><b>2226572262<br>2226953428</b>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts5",
@@ -4597,8 +5253,8 @@
           },
           "text4": "<b>contacto@madeinhouse.com.mx</b>",
           "title1": "Categorías",
-          "text5": "<p><b>-&nbsp;<a href=\"parejas.html\" class=\"text-black\">PAREJAS</a></b></p><p><b>-&nbsp;<a href=\"familiayamigos.html\" class=\"text-black\">FAMILIA Y AMIGOS</a></b></p><p><b>-&nbsp;<a href=\"accesoriospararegalar.html\" class=\"text-black\">ACCESORIOS PARA REGALAR</a></b></p><p><b>-&nbsp;<a href=\"tejido.html\" class=\"text-black\">TEJIDO</a></b></p><p><b>-&nbsp;<a href=\"comocomprar.html\" class=\"text-black\">¿CÓMO COMPRAR?</a></b></p><p><b>-&nbsp;<a href=\"realizarpedido.html\" class=\"text-black\">REALIZAR PEDIDO</a></b></p><p><b>-&nbsp;<a href=\"personaliza.html\" class=\"text-black\">PERSONALIZA</a></b></p><p></p>",
-          "text6": "<strong>Contáctanos</strong><br>Llena el formulario para que nos pongamos en contacto a la brevedad y podamos atender tu solicitud de pedido.<br><br><br><strong>Recoge &nbsp;tu pedido</strong><br>Av. Orión Sur #717 Plaza F1 Local 8 Planta Baja<br>Reserva Territorial Atlixcáyotl,Puebla.<br>C.P. 72825<br><br><font color=\"#7e9b9f\"><b>Horario de atención</b></font><font color=\"#7e9b9f\"><b><br></b></font><br><b>Lunes a Viernes:<br></b>10:00 am - 2:30 pm&nbsp;<br>4:00 pm - 7:00 pm<br><br><b>Sábado</b><br>10:00 am - 2:00 pm<br><br><br>",
+          "text5": "<p><b>-&nbsp;<a href=\"parejas.html\" class=\"text-primary\">PAREJAS</a></b></p><p><b>-&nbsp;<a href=\"familiayamigos.html\" class=\"text-primary\">FAMILIA Y AMIGOS</a></b></p><p><b>-&nbsp;<a href=\"accesoriospararegalar.html\" class=\"text-primary\">ACCESORIOS PARA REGALAR</a></b></p><p><b>-&nbsp;<a href=\"tejido.html\" class=\"text-primary\">TEJIDO</a></b></p><p><b>-&nbsp;<a href=\"comocomprar.html\" class=\"text-primary\">¿CÓMO COMPRAR?</a></b></p><p><b>-&nbsp;<a href=\"realizarpedido.html\" class=\"text-primary\">REALIZAR PEDIDO</a></b></p><p><b>-&nbsp;<a href=\"personaliza.html\" class=\"text-primary\">PERSONALIZA</a></b></p><p><b><a href=\"disenoypublicidad.html\" class=\"text-primary\">-DISEÑO Y PUBLICIDAD</a></b></p><p><b><a href=\"ventasporcatalogo.html\">-VENTAS POR CATÁLOGO</a></b></p><p></p>",
+          "text6": "<strong>Contáctanos</strong><br>Llena el formulario para que nos pongamos en contacto a la brevedad y podamos atender tu solicitud de pedido.<br><br><br><strong>Entregamos personalmente tu pedido en uno de los siguientes puntos únicamente:</strong><br>-Walmart Cd. Judicial<br>-Complejo Cultural BUAP<br>-Plaza Dorada<br><br><br>",
           "form": {
             "title": "MESSAGE",
             "action": "playerasmadeinhouse@hotmail.com",
@@ -4633,25 +5289,10 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "map1",
-          "_anchor": "map1-l",
-          "_params": {
-            "googleMap": {
-              "address": "Av. Orión Sur 717",
-              "placeId": "EkFBdi4gT3Jpw7NuIFN1ciA3MTcsIEZsb3Jlc3RhLCA3MjgxMCBUbGF4Y2FsYW5jaW5nbywgUHVlLiwgTcOpeGljbw",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "social-buttons1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_anchor": "social-buttons1-m",
@@ -4661,7 +5302,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#eecfb2",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -4672,7 +5313,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "COMPARTE NUESTRA PÁGINA"
+          "text": "Comparte nuestra página"
         }
       ]
     },
@@ -4804,49 +5445,37 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
-          "_anchor": "header2-40",
+          "_name": "header1",
+          "_anchor": "header1-4z",
           "_params": {
-            "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/home-trabajado-2000x1276.jpg",
-            "bgColor": "#2e2e2e",
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/home-editado-2000x1276.jpg",
+            "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "inverse": false,
+            "contentAlign": "right",
             "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true
+            "showText": false,
+            "showButtons": false
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
+          "title": "<br>Ofrecemos&nbsp;servicios <br>profesionales &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>de diseño y publicidad",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#42e5da",
+              "font-size": "46px",
+              "text-align": "right"
             }
-          },
-          "title": "<p>&nbsp; &nbsp; OFRECEMOS SERVICIOS DE DISEÑO Y PUBLICIDAD<br></p>",
-          "text": "Para empresas, negocios, profesionistas independientes y todos los &nbsp;proyectos que requieran de una identidad visual y de materiales para su difusión y promoción.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          }
         },
         {
           "_tags": [
@@ -5222,6 +5851,68 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-50",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Envíanos tus datos<br><br>",
+          "subtitle": "<span style=\"font-style: normal;\">y las características del trabajo que necesitas cotizar para que a la brevedad </span><br><span style=\"font-style: normal;\">nos pongamos en contacto y le demos seguimiento a tu petición.</span>",
+          "form": {
+            "action": "playerasmadeinhouse@hotmail.com",
+            "alerts": {
+              "success": "En breve nos pondremos en contacto!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Teléfono*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SPAN": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "24px"
+            }
+          }
         }
       ]
     },
@@ -5329,6 +6020,12 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "header2-47",
           "_params": {
             "imageSize": 50,
@@ -5372,15 +6069,9 @@
               "size": 250
             }
           },
-          "title": "¡ VENDE NUESTROS PRODUCTOS ENTRE TUS AMIGOS Y CONOCIDOS PARA GENERAR UN INGRESO EXTRA !&nbsp;",
+          "title": "¡Vende nuestros productos entre tus conocidos y genera un ingreso extra en tu tiempo libre!&nbsp;",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "color": "#f7da64"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
@@ -5389,6 +6080,14 @@
             },
             "H3": {
               "color": "#42e5da"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "font-size": "24px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_tags": [
@@ -5402,14 +6101,23 @@
             "bgColor": "#000000",
             "showMeta": true
           },
-          "title": "ADQUIERE TU KIT DE 4 CATÁLOGOS",
-          "meta": "Son prácticos de cargar, originales y diferentes a los catálogos convencionales y con excelentes productos <br>que se venden solos,&nbsp;en los cuáles abarcamos los artículos de las 4 categorías de la marca."
+          "title": "Adquiere tu Kit de 4 catálogos<br><br>",
+          "meta": "<span style=\"font-style: normal;\">Son prácticos de cargar, originales y diferentes a los catálogos convencionales y con excelentes productos que se venden solos,&nbsp;en los cuáles abarcamos los artículos de las 4 categorías que manejamos en esta misma página: </span><b><span style=\"font-style: normal;\">Parejas,</span><span style=\"font-style: normal;\">&nbsp;Familia y Amigos, Accesorios para regalar y Tejido.</span></b>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
           "_anchor": "header1-49",
           "_params": {
             "parallax": true,
@@ -5430,23 +6138,34 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "PIDE INFORMES DE CÓMO ADQUIRIRLOS Y NUESTRA MECÁNICA DE TRABAJO",
-          "text": "Es sumamente sencillo, rápido y puedes generar mejores ingresos y más fácilmente que con los productos o catálogos convencionales del mercado.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">QUIERO PEDIR INFORMES</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#f7da64"
-            }
-          }
+          "title": "Escríbenos o llámanos para que te expliquemos la m\bécanica para adquirirlos y trabajar a tu ritmo<br><br>",
+          "text": "<span style=\"font-style: normal;\">Es sumamente fácil, rápido y puedes generar mejores ingresos y más fácilmente que con los productos o catálogos convencionales del mercado.</span>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">QUIERO PEDIR INFORMES</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#eecfb2"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "24px"
+            }
+          },
           "_anchor": "form1-4b",
           "_params": {
-            "labelsColor": "#f7da64",
+            "labelsColor": "#ffffff",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -5460,8 +6179,8 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "LLENA EL FORMULARIO DE CONTACTO",
-          "subtitle": "para que nos comuniquemos a la brevedad y te demos toda la información al respecto.",
+          "title": "Llena el formulario de contacto",
+          "subtitle": "<span style=\"font-style: normal;\">para que nos comuniquemos a la brevedad y te demos toda la información al respecto.</span>",
           "form": {
             "action": "playerasmadeinhouse@hotmail.com",
             "alerts": {
@@ -5489,15 +6208,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">PEDIR INFORMES</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#f7da64"
-            },
-            ".mbr-section-title": {
-              "color": "#f7da64"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Pedir Informes</a>"
         }
       ]
     }
